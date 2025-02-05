@@ -7,17 +7,14 @@
 * modern process and tooling
 
 
-## How?
-simply click on the "use this this template" button to create a new repositiory
+## What?
+this is a midterm project for web deisgn 2
 
 ## Citations
 * [Normallize CSS](https://necolas.github.io/normalize.css/)
 * [Google Fonts](https://fonts.google.com/)
 * [Fontshare](https://www.fontshare.com/)
 * [Unsplash](https://unsplash.com/)
-* [Google Fonts](https://fonts.google.com/)
-* <a href="link"></a>
+* [code pen](https://codepen.io/trending)
 
-
-Boilerplate for Web 2
 
